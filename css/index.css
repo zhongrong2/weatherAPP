@@ -236,3 +236,7 @@ header{
 .city3{
 		overflow-y: scroll;
 }
+
+#citys:hover{
+	overflow: hidden;
+}
